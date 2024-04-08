@@ -32,8 +32,7 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![Screenshot 2024-03-09 091445](https://github.com/hasnu0406/Swapping-two-values/assets/135305537/405850ae-10ad-4181-8abd-fc72d6a0fe31)
-
+![alt text](<Screenshot 2024-04-08 222814.png>)
 
 
 ## RESULT:

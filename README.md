@@ -22,7 +22,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+DEVELOPED BY: HASNA MUBARAK AZEEM
+REG NO: 212223240052
 
+a=input()
+b=input()
+a,b=b,a
+print("Swapped values are:",a,b)
+```
 ## OUTPUT:
 ![Screenshot 2024-03-09 091445](https://github.com/hasnu0406/Swapping-two-values/assets/135305537/405850ae-10ad-4181-8abd-fc72d6a0fe31)
 
